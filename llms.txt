@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك.. قلبي معاك..
+> نار الشوق في هواك
+> كل ليلة أستنى لقاك
+> روحي تسألني متى ألقاك.. متى ألقاك..
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
