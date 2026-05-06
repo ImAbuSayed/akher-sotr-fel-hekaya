@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/akher-sotr-fel-hekaya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Commercial Licensing for Akher Sotr Fel Hekaya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
